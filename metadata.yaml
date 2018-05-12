@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/10
     wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20918#Auld-Licht-Idylls
 gutenberg_issued: '2007-03-27'
 gutenberg_type: Text
 identifiers:
